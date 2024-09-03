@@ -1,0 +1,38 @@
+{
+    "data" : [ {
+        "id" :"001",
+        "image" : "inverstment",
+        "title" : "Investment",
+        "subtitle": ["Stocks","Bonds","Fixed Deposits","Public Provident Fund","Mutual Funds","Real Estate"]
+    },
+               {
+        "id" :"002",
+        "image" : "creditcard",
+        "title" : "Credit Card",
+        "subtitle": ["Travel Credit Cards","Secured Credit Cards","CashBack Credit Cards","Commercial or Business Credit Cards","Premium Credit Cards","Regular Credit Cards"]
+    },
+               {
+        "id" :"003",
+        "image" : "healthinsurence",
+        "title" : "Health Insurance",
+        "subtitle": ["Individual Health Insurance","Senior Citizen Health Insurance","Group Health Insurance"]
+    },
+               {
+        "id" :"004",
+        "image" : "houseloan",
+        "title" : "House Loan",
+        "subtitle": ["Basic Home Loan","Home Extension/Improvement Loan"]
+    },
+    {
+        "id" :"005",
+        "image" : "personalloan",
+        "title" : "Personal Loan",
+        "subtitle": ["Education loans"]
+    },
+               {
+        "id" :"006",
+        "image" : "carinsurance",
+        "title" : "Car Insurance",
+        "subtitle": ["Liability insurance","Collision","Personal accident cover"]
+    }]
+}
